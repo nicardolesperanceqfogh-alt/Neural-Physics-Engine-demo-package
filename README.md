@@ -34,3 +34,11 @@ and is then able to independently reproduce the behaviour of the environment: mo
 
 This is closer to modelling physical causal relationships than to optimising agent behaviour.
 In essence, the core is a neurophysical engine that reconstructs the dynamics of the world from observations.
+
+# What should be included in this repository
+
+1) README.md — high-level description (this file).
+
+2) example_dataset.json — example dataset.
+
+3) 2025-10-27.07-17-47.mp4 — short render recording: goal setting → agent movement → contact with object → object reaction.
