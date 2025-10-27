@@ -12,3 +12,8 @@ Neurophysical core — private. This repository contains a public showcase: a br
 4) When interacting (contact), it learns to predict the consequences of interaction and adjusts its future steps,
 
 5) In interactive mode, it accepts an external goal and adapts the agent's behaviour in real time.
+
+
+
+https://github.com/user-attachments/assets/853fc13d-5da5-4970-92cc-a569ac4fce95
+
