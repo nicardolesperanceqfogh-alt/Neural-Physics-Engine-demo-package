@@ -28,3 +28,5 @@ This is not Reinforcement Learning (RL) and does not involve learning through re
 2) example_dataset.json — example dataset.
 
 3) 2025-10-27.07-17-47.mp4 — short render recording: goal setting → agent movement → contact with object → object reaction.
+
+Contact mail: caskinv2507@gmail.com
