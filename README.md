@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/853fc13d-5da5-4970-92cc-a569ac4fce95
 
 This is not Reinforcement Learning (RL) and does not involve learning through rewards or feedback from the environment. The system does not use policies, agents, or Q-functions. What it does is implement a full-fledged simulation of the environment, which the system has learned to reproduce based solely on observational data — a dataset with records of the position and orientation of all objects over time. In other words, instead of learning to act as in classical RL, the system: analyses real observations of the scene (recorded coordinates, angles, collisions), builds internal cause-and-effect patterns (what leads to what), and is then able to independently reproduce the behaviour of the environment: movement, interactions, reactions of objects and goals. This is closer to modelling physical causal relationships than to optimising agent behaviour. In essence, the core is a neurophysical engine that reconstructs the dynamics of the world from observations.
 
+Unlike visually-driven world generation systems such as HunyuanWorld, this engine focuses on causal world dynamics — learning object interactions directly from observation, not from predefined physics equations.
+
 # What should be included in this repository
 
 1) README.md — high-level description (this file).
