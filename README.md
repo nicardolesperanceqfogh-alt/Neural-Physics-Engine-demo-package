@@ -15,7 +15,8 @@ Neurophysical core — private. This repository contains a public showcase: a br
 
 
 
-https://github.com/user-attachments/assets/853fc13d-5da5-4970-92cc-a569ac4fce95
+
+https://github.com/user-attachments/assets/adca4b92-ca3b-4fe1-b3bf-aca49b828799
 
 # Important clarification
 
@@ -29,6 +30,6 @@ Unlike visually-driven world generation systems such as HunyuanWorld, this engin
 
 2) example_dataset.json — example dataset.
 
-3) 2025-10-27.07-17-47.mp4 — short render recording: goal setting → agent movement → contact with object → object reaction.
+3) 2025-10-31 21-59-48.mp4 — short render recording: goal setting → agent movement → contact with object → object reaction.
 
 Contact mail: caskinv2507@gmail.com
