@@ -36,5 +36,3 @@ Unlike visually-driven world generation systems such as HunyuanWorld, this engin
 2) example_dataset.json — example dataset.
 
 3) 2025-10-31 21-59-48.mp4 — short render recording: goal setting → agent movement → contact with object → object reaction.
-
-Contact mail: caskinv2507@gmail.com
